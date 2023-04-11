@@ -1,5 +1,5 @@
 @aidantt / aidant7376@gmail.com
-- Learning C++, Python
+- Learning C++, Rust, Python
 - obsidian enthusiast
 - tired student
 
